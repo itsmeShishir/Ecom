@@ -1,0 +1,12 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "An ecommerce website with multi vendor website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ecommerce"],
+  "author": "itsmeshishir",
+  "license": "ISC"
+}
